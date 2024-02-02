@@ -1,0 +1,4 @@
+python
+django
+bootstrap 5
+django widget tweaks
